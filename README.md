@@ -1,2 +1,2 @@
 # sample
-My sample repository on GitHub.
+I am learning how to host my web page online with this sample repository.
